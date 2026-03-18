@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.domain\\entities\\grupamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|solutionrelative:gestaoassociadosapp.domain\\entities\\grupamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.domain\\entities\\cargolideranca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|solutionrelative:gestaoassociadosapp.domain\\entities\\cargolideranca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.domain\\entities\\associado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|solutionrelative:gestaoassociadosapp.domain\\entities\\associado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.domain\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|solutionrelative:gestaoassociadosapp.domain\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.domain\\entities\\contatoemergencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|solutionrelative:gestaoassociadosapp.domain\\entities\\contatoemergencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.domain\\entities\\associadoequipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|solutionrelative:gestaoassociadosapp.domain\\entities\\associadoequipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.domain\\entities\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|solutionrelative:gestaoassociadosapp.domain\\entities\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.domain\\entities\\beneficiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|solutionrelative:gestaoassociadosapp.domain\\entities\\beneficiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.domain\\entities\\areaatuacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|solutionrelative:gestaoassociadosapp.domain\\entities\\areaatuacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.domain\\entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|solutionrelative:gestaoassociadosapp.domain\\entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.domain\\entities\\setormercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CAFD5-722D-4029-8B73-A69CB4275A71}|GestaoAssociadosApp.Domain\\GestaoAssociadosApp.Domain.csproj|solutionrelative:gestaoassociadosapp.domain\\entities\\setormercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3DACD0-65A7-4263-8F2C-B55404E38377}|GestaoAssociadosApp.API\\GestaoAssociadosApp.API.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D3DACD0-65A7-4263-8F2C-B55404E38377}|GestaoAssociadosApp.API\\GestaoAssociadosApp.API.csproj|solutionrelative:gestaoassociadosapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E12938-9FCF-40B9-BFAA-922C5098131F}|GestaoAssociadosApp.Infrastructure\\GestaoAssociadosApp.Infrastructure.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.infrastructure\\gestaoassociadosapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0E12938-9FCF-40B9-BFAA-922C5098131F}|GestaoAssociadosApp.Infrastructure\\GestaoAssociadosApp.Infrastructure.csproj|solutionrelative:gestaoassociadosapp.infrastructure\\gestaoassociadosapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C96258-865D-4C40-B218-83B088A4B316}|GestaoAssociadosApp.Application\\GestaoAssociadosApp.Application.csproj|c:\\users\\danie\\desktop\\hackaton\\projeto\\gestaoassociadosapp\\gestaoassociadosapp.application\\gestaoassociadosapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7C96258-865D-4C40-B218-83B088A4B316}|GestaoAssociadosApp.Application\\GestaoAssociadosApp.Application.csproj|solutionrelative:gestaoassociadosapp.application\\gestaoassociadosapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssociadoEquipe.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\AssociadoEquipe.cs",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Domain\\Entities\\AssociadoEquipe.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\AssociadoEquipe.cs",
+              "RelativeToolTip": "GestaoAssociadosApp.Domain\\Entities\\AssociadoEquipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T23:03:47.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContatoEmergencia.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\ContatoEmergencia.cs",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Domain\\Entities\\ContatoEmergencia.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\ContatoEmergencia.cs",
+              "RelativeToolTip": "GestaoAssociadosApp.Domain\\Entities\\ContatoEmergencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:54:21.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CargoLideranca.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\CargoLideranca.cs",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Domain\\Entities\\CargoLideranca.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\CargoLideranca.cs",
+              "RelativeToolTip": "GestaoAssociadosApp.Domain\\Entities\\CargoLideranca.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:43:34.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Endereco.cs",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Domain\\Entities\\Endereco.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Endereco.cs",
+              "RelativeToolTip": "GestaoAssociadosApp.Domain\\Entities\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:53:42.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Associado.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Associado.cs",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Domain\\Entities\\Associado.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Associado.cs",
+              "RelativeToolTip": "GestaoAssociadosApp.Domain\\Entities\\Associado.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T23:12:52.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grupamento.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Grupamento.cs",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Domain\\Entities\\Grupamento.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Grupamento.cs",
+              "RelativeToolTip": "GestaoAssociadosApp.Domain\\Entities\\Grupamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:47:47.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Equipe.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Equipe.cs",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Domain\\Entities\\Equipe.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Equipe.cs",
+              "RelativeToolTip": "GestaoAssociadosApp.Domain\\Entities\\Equipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T23:00:01.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Beneficiario.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Beneficiario.cs",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Domain\\Entities\\Beneficiario.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Beneficiario.cs",
+              "RelativeToolTip": "GestaoAssociadosApp.Domain\\Entities\\Beneficiario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:49:28.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AreaAtuacao.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\AreaAtuacao.cs",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Domain\\Entities\\AreaAtuacao.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\AreaAtuacao.cs",
+              "RelativeToolTip": "GestaoAssociadosApp.Domain\\Entities\\AreaAtuacao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:32:13.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Empresa.cs",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Domain\\Entities\\Empresa.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\Empresa.cs",
+              "RelativeToolTip": "GestaoAssociadosApp.Domain\\Entities\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:54:56.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SetorMercado.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\SetorMercado.cs",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Domain\\Entities\\SetorMercado.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Domain\\Entities\\SetorMercado.cs",
+              "RelativeToolTip": "GestaoAssociadosApp.Domain\\Entities\\SetorMercado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:26:03.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.API\\appsettings.json",
+              "RelativeToolTip": "GestaoAssociadosApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T23:36:19.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GestaoAssociadosApp.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Application\\GestaoAssociadosApp.Application.csproj",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Application\\GestaoAssociadosApp.Application.csproj",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Application\\GestaoAssociadosApp.Application.csproj",
+              "RelativeToolTip": "GestaoAssociadosApp.Application\\GestaoAssociadosApp.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T22:17:13.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GestaoAssociadosApp.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Infrastructure\\GestaoAssociadosApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "GestaoAssociadosApp.Infrastructure\\GestaoAssociadosApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Hackaton\\projeto\\GestaoAssociadosApp\\GestaoAssociadosApp.Infrastructure\\GestaoAssociadosApp.Infrastructure.csproj",
+              "RelativeToolTip": "GestaoAssociadosApp.Infrastructure\\GestaoAssociadosApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T22:15:35.652Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 991,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
