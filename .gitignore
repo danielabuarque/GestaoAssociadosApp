@@ -1,0 +1,120 @@
+﻿## =========================
+## Visual Studio / .NET
+## =========================
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+**/bin/
+**/obj/
+
+# IDE folders
+.vs/
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+## =========================
+## ASP.NET Core
+## =========================
+
+# Local settings (IMPORTANT for security)
+appsettings.Development.json
+appsettings.Local.json
+
+# Secrets
+secrets.json
+
+# Environment variables
+.env
+
+## =========================
+## Entity Framework Core
+## =========================
+
+# ❗ DO NOT ignore migrations folder entirely
+# It must be versioned!
+# Only ignore generated designer files (optional)
+
+Migrations/*.Designer.cs
+
+# Snapshots are important → DO NOT ignore:
+# Migrations/*ModelSnapshot.cs
+
+## =========================
+## PostgreSQL
+## =========================
+
+# Local database dumps / backups
+*.sql
+*.dump
+*.backup
+
+# If you ever use local SQLite for tests
+*.db
+*.sqlite
+
+## =========================
+## NuGet
+## =========================
+
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+## =========================
+## Test & Coverage
+## =========================
+
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+coverage*.json
+coverage*.xml
+coverage*.info
+
+## =========================
+## Frontend (if exists)
+## =========================
+
+node_modules/
+dist/
+build/
+
+## =========================
+## Publish / Output
+## =========================
+
+publish/
+
+## =========================
+## Temp / Backup
+## =========================
+
+*.tmp
+*.temp
+*.bak
+
+## =========================
+## Docker (optional)
+## =========================
+
+docker-compose.override.yml
+

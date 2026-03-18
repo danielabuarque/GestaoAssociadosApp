@@ -19,7 +19,7 @@
         #endregion
 
         #region Relationships
-        //public ICollection<AssociadoEquipe> AssociadoEquipes { get; set; }
+        public ICollection<AssociadoEquipe> AssociadoEquipes { get; set; }
         #endregion
 
     }
