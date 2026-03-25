@@ -8,18 +8,18 @@ namespace GestaoAssociadosApp.Infrastructure.Mappings
     {
         public void Configure(EntityTypeBuilder<ContatoEmergencia> builder)
         {
-            builder.ToTable("contatoemergencia");
+            builder.ToTable("CONTATOEMERGENCIA");
 
             builder.HasKey(e => e.Id);
 
-            builder.Property(e => e.Id).HasColumnName("id");
-            builder.Property(e => e.Nome).HasColumnName("nome").HasMaxLength(150).IsRequired();
-            builder.Property(e => e.GrauRelacionamento).HasColumnName("graurelacionamento").HasMaxLength(150).IsRequired();
-            builder.Property(e => e.TelefonePrincipal).HasColumnName("telefoneprincipal").HasMaxLength(20).IsRequired();
-            builder.Property(e => e.TelefoneSecundario).HasColumnName("telefonesecundario").HasMaxLength(20);
-            builder.Property(e => e.Ativo).HasColumnName("ativo").HasDefaultValue(true);
-            builder.Property(e => e.DataInclusao).HasColumnName("datainclusao").HasDefaultValueSql("CURRENT_TIMESTAMP");
-            builder.Property(e => e.DataAlteracao).HasColumnName("dataalteracao").HasDefaultValueSql("CURRENT_TIMESTAMP");
+            builder.Property(e => e.Id).HasColumnName("ID");
+            builder.Property(e => e.Nome).HasColumnName("NOME").HasMaxLength(150).IsRequired();
+            builder.Property(e => e.GrauRelacionamento).HasColumnName("GRAURELACIONAMENTO").HasMaxLength(150).IsRequired();
+            builder.Property(e => e.TelefonePrincipal).HasColumnName("TELEFONEPRINCIPAL").HasMaxLength(20).IsRequired();
+            builder.Property(e => e.TelefoneSecundario).HasColumnName("TELEFONESECUNDARIO").HasMaxLength(20);
+            builder.Property(e => e.Ativo).HasColumnName("ATIVO").HasDefaultValue(true);
+            builder.Property(e => e.DataInclusao).HasColumnName("DATAINCLUSAO").HasDefaultValueSql("CURRENT_TIMESTAMP");
+            builder.Property(e => e.DataAlteracao).HasColumnName("DATAALTERACAO").HasDefaultValueSql("CURRENT_TIMESTAMP");
         }
     }
 }

@@ -8,18 +8,20 @@ namespace GestaoAssociadosApp.Infrastructure.Mappings
     {
         public void Configure(EntityTypeBuilder<AreaAtuacao> builder)
         {
-            builder.ToTable("areaatuacao");
+            builder.ToTable("AREAATUACAO");
 
             builder.HasKey(e => e.Id);
 
-            builder.Property(e => e.Id).HasColumnName("id");
-            builder.Property(e => e.Nome).HasColumnName("nome").HasMaxLength(50).IsRequired();
-            builder.Property(e => e.SetorMercadoId).HasColumnName("setormercado_id").IsRequired();
-            builder.Property(e => e.Ativo).HasColumnName("ativo").HasDefaultValue(true);
-            builder.Property(e => e.DataInclusao).HasColumnName("datainclusao").HasDefaultValueSql("CURRENT_TIMESTAMP");
-            builder.Property(e => e.DataAlteracao).HasColumnName("dataalteracao").HasDefaultValueSql("CURRENT_TIMESTAMP");
+            builder.Property(e => e.Id).HasColumnName("ID");
+            builder.Property(e => e.Nome).HasColumnName("NOME").HasMaxLength(50).IsRequired();
+            builder.Property(e => e.SetorMercadoId).HasColumnName("SETORMERCADO_ID").IsRequired();
+            builder.Property(e => e.Ativo).HasColumnName("ATIVO").HasDefaultValue(true);
+            builder.Property(e => e.DataInclusao).HasColumnName("DATAINCLUSAO").HasDefaultValueSql("CURRENT_TIMESTAMP");
+            builder.Property(e => e.DataAlteracao).HasColumnName("DATAALTERACAO").HasDefaultValueSql("CURRENT_TIMESTAMP");
 
-            builder.HasOne(aa => aa.SetorMercado).WithMany(sm => sm.AreasAtuacao).HasForeignKey(aa => aa.SetorMercadoId);
+            builder.HasOne(aa => aa.SetorMercado)
+                .WithMany(sm => sm.AreasAtuacao)
+                .HasForeignKey(aa => aa.SetorMercadoId);
         }
     }
 }
